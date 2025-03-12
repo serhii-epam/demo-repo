@@ -1,0 +1,13 @@
+snow stage list
+snow stage copy tcph2data/ @EPAM_LAB_STAGE --overwrite
+snow stage list-files @EPAM_LAB_STAGE
+
+snow stage remove epam_lab_stage h_region.csv
+snow stage remove epam_lab_stage h_nation.dsv
+snow stage remove epam_lab_stage h_customer.dsv
+
+snow sql -q "REMOVE @epam_lab_stage"
+snow sql -f sql_query.txt
+snow sql -q "select * from customer limit 10;"
+
+
