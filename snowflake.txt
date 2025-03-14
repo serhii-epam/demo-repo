@@ -1,0 +1,44 @@
+https://learn.snowflake.com/dashboard#unenroll-modal
+https://learn.snowflake.com/en/courses/OD-LVLUP-106/
+
+THE APP:
+
+https://ysa.snowflakeuniversity.com
+
+Right-click the link above and choose Open Link in New Tab.
+
+SYNHUMY.ZBB74720	SLB96670
+
+YOUR UNI ID:
+
+005VI00000NENIrYAP
+
+YOUR ASSIGNED UUID: (Do Not Share)
+
+f200c676-dc34-44b1-9b65-200ef31088f3
+
+arn:aws:iam::911167923053:user/fdrv0000-s
+
+# Add Rows to Flower Detail table
+Edit the "set" cells to update the variables, then click "Run All" in the top left-corner. 
+
+[
+  {
+    "first_name": "Fiona",
+    "last_name": "Macdonald",
+    "middle_name": null
+  },
+  {
+    "first_name": "Gian",
+    "last_name": "Faleschini",
+    "middle_name": "Paulo"
+  }
+]
+
+https://learn.epam.com/myLearning/path?moduleId=18594483&rootId=18594463&tab=COURSEWARE
+
+https://app.snowflake.com/synhumy/zbb74720/w3KEc42udU9X#query
+https://learn.snowflake.com/courses/course-v1:snowflake+ESS-DWW+A/courseware/f2337648e624457196f232aec0c1ceef/701cd6043104426cb8f7f8f1f563a06d/?child=first
+
+
+
